@@ -61,10 +61,10 @@ Although currently minimal, this structure provides a clean foundation for addin
 4. Run the app:
 
    ```bash
-   python main.py
+   python text1.py
    ```
 
-> Note: You can rename `main.py` to match the actual name of your Python script if different.
+> Note: You can rename `text1.py` to match the actual name of your Python script if different.
 
 ---
 
@@ -72,7 +72,7 @@ Although currently minimal, this structure provides a clean foundation for addin
 
 ```
 .
-├── main.py            # Main PyQt5 application script
+├── text1.py            # Main PyQt5 application script
 └── text1.ui           # Qt Designer UI file (optional, not required at runtime)
 ```
 
